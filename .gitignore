@@ -5,6 +5,7 @@ conf/auto.conf
 conf/bblayers.conf
 conf/sanity_info
 conf/site.conf
+bitbake.lock
 pseudodone
 git_config
 subversion_config/
